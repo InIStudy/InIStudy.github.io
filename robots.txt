@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://inistudy.github.io/sitemap.xml
